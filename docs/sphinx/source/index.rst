@@ -15,3 +15,13 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+
+Documentación de mi Calculadora
+==============================
+
+Aquí va una breve descripción de lo que hace tu proyecto.
+
+.. automodule:: calculadora
+   :members:
+   :undoc-members:
+   :show-inheritance:

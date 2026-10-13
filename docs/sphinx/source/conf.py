@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..'))
+sys.path.insert(0, "D:/Modulo 2º DAW/DESPL/TareasIndividuales13-10-2026/Tarea2/calculadora-precios")
 
 
 # Configuration file for the Sphinx documentation builder.
