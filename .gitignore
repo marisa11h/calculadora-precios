@@ -1,0 +1,9 @@
+# Salidas automáticas de documentación
+out/
+build/
+_build/
+
+# Cachés del sistema y lenguajes
+__pycache__/
+*.pyc
+.DS_Store
