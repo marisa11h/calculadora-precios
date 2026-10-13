@@ -1,0 +1,27 @@
+.. calcuexplidoc documentation master file, created by
+   sphinx-quickstart on Tue Oct 13 23:09:02 2026.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+calcuexplidoc documentation
+===========================
+
+Add your content using ``reStructuredText`` syntax. See the
+`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+documentation for details.
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+Documentación de mi Calculadora
+==============================
+
+Aquí va una breve descripción de lo que hace tu proyecto.
+
+.. automodule:: calculadora
+   :members:
+   :undoc-members:
+   :show-inheritance:
